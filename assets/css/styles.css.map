@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"../../scss/styles.scss"
+	],
+	"sourcesContent": [
+		".my-yellow{\n  background-color: #FFC001 !important;\n}\n.my-purple{\n  background-color: #652D90 !important;\n}\n\n#logo {\n  width: 100%;\n}\n\nbody {\n  margin-top: 0 !important;\n  padding: 0 !important;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,UAAU,AAAA,CACR,gBAAgB,CAAE,kBAAkB,CACrC,AACD,AAAA,UAAU,AAAA,CACR,gBAAgB,CAAE,kBAAkB,CACrC,AAED,AAAA,KAAK,AAAC,CACJ,KAAK,CAAE,IAAI,CACZ,AAED,AAAA,IAAI,AAAC,CACH,UAAU,CAAE,YAAY,CACxB,OAAO,CAAE,YAAY,CACtB"
+}
